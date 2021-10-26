@@ -1304,6 +1304,14 @@ ul.slides li {
   }
 }
 
+@media screen and (max-width: 700px) {
+  .inner {
+    /* margin-top: 400px; */
+    text-align: center;
+    height: 500px;
+  }
+}
+
 @media screen and (max-width: 991px) {
   .hero {
     padding: 0px;
