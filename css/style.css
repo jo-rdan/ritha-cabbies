@@ -15,10 +15,11 @@
   background: #fff url("../img/preloader.gif") no-repeat center center;
 }
 
-/* .img-logo {
+.img-logo {
   /* width: "100%"; */
-  margin-left: 500px
-} */
+  margin-left: 100px;
+  margin-top: auto;
+}
 
 /* ==========================================================================
 	Global Styles
