@@ -18,7 +18,13 @@
 .img-logo {
   /* width: "100%"; */
   margin-left: 100px;
-  margin-top: auto;
+}
+
+.item span {
+  background-color: #ffe800;
+  color: #e04343;
+  position: absolute;
+  z-index: 9;
 }
 
 /* ==========================================================================
